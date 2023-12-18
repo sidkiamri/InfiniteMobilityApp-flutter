@@ -20,14 +20,25 @@ To get started with the Infinite Mobility App, follow these steps:
    ```bash
    git clone https://github.com/your-username/infinite-mobility-app.git
 Navigate to the project directory:
+
 cd infinite-mobility-app
 
 Install dependencies:
+
 flutter pub get
 
 Run the app:
+
 flutter run
-Features : User Management / Map Navigation / BLE Communication / Bike Diagnostic
+## Features : 
+
+User Management 
+
+Map Navigation 
+
+BLE Communication 
+
+Bike Diagnostic
 
 Technologies Used
 The Infinite Mobility App is built using the following technologies:
