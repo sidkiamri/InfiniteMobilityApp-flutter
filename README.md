@@ -41,7 +41,7 @@ BLE Communication
 
 Bike Diagnostic
 
-Technologies Used
+## Technologies Used :
 The Infinite Mobility App is built using the following technologies:
 
 Flutter
