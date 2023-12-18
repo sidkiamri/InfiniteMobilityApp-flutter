@@ -7,9 +7,10 @@ The **Infinite Mobility App** is a feature-rich mobile application developed dur
 - [Installation](#installation)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Usage](#usage)
 - [Contributing](#contributing)
+- [Support](#support)
 - [License](#license)
+- [Contact](#contact)
 
 ## Installation
 
