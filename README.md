@@ -21,15 +21,15 @@ To get started with the Infinite Mobility App, follow these steps:
    git clone https://github.com/your-username/infinite-mobility-app.git
 2. Navigate to the project directory:
    ```bash
-cd infinite-mobility-app
+   cd infinite-mobility-app
 
 3. Install dependencies:
    ```bash
-flutter pub get
+   flutter pub get
 
 4. Run the app:
    ```bash
-flutter run
+   flutter run
 
 
 
