@@ -36,13 +36,37 @@ Flutter
 Dart
 Bluetooth Low Energy (BLE)
 Contributing
-If you wish to contribute to the Infinite Mobility App, please follow these steps:
+We welcome contributions to TrashReduce! If you would like to contribute to the project, please follow these steps:
 
 Fork the repository.
-Create a new branch for your feature: git checkout -b feature-name.
-Commit your changes: git commit -m 'Add some feature'.
-Push to the branch: git push origin feature-name.
-Submit a pull request.
+
+Create a new branch for your feature or bug fix.
+
+Commit your changes and push them to your fork.
+
+Submit a pull request, explaining the changes you have made and their purpose.
+
+Support
+If you encounter any issues while using TrashReduce or have any questions, please open an issue on the GitHub repository. We will be happy to assist you.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+Acknowledgements
+We would like to thank the following resources for their valuable contributions to the development of TrashReduce:
+
+Resource 1
+Resource 2
+Resource 3
+Special thanks to our beta testers for their valuable feedback and suggestions.
+
+Contact
+For any inquiries or further information, please contact us:
+
+Sidki Amri: sidki.amri@esprit.tn
+Mohamed Taha Mejoub: rayen.mejdoub@esprit.tn
+
+
 
 
 
