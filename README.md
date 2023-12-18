@@ -31,8 +31,6 @@ To get started with the Infinite Mobility App, follow these steps:
    ```bash
    flutter run
 
-
-
 ## Features : 
 
 User Management 
