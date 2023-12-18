@@ -33,8 +33,13 @@ Technologies Used
 The Infinite Mobility App is built using the following technologies:
 
 Flutter
+
 Dart
-Bluetooth Low Energy (BLE)
+
+Bluetooth Low Energy (BLE).
+
+
+
 Contributing
 We welcome contributions to TrashReduce! If you would like to contribute to the project, please follow these steps:
 
