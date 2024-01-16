@@ -75,7 +75,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 For any inquiries or further information, please contact us:
 
 Sidki Amri: sidki.amri@esprit.tn
-Mohamed Taha Mejoub: rayen.mejdoub@esprit.tn
+Rayen Mejoub: rayen.mejdoub@esprit.tn
 
 
 
